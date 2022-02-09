@@ -1,5 +1,6 @@
 # ClassRegister
-! This isn't finished yet, just wait.
+! The program and the UML diagram are neither finished yet so please shut.
+
 A ClassRegister with many classes, Objects usw. - Documentation's coming soon ...
 
 # UML
